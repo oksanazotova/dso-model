@@ -2,7 +2,7 @@
   "s_base": 100.0,
   "buses": [
     {"id": 1, "type": "slack", "v_setpoint": 1.02, "p_gen_mw": 0.0, "q_gen_mvar": 0.0, "p_load_mw": 0.0,  "q_load_mvar": 0.0,  "base_kv": 138.0},
-    {"id": 2, "type": "pq",    "v_setpoint": 1.0,  "p_gen_mw": 0.0, "q_gen_mvar": 0.0, "p_load_mw": 40.0, "q_load_mvar": 15.0, "base_kv": 13.8},
+    {"id": 2, "type": "pq",    "v_setpoint": 1.0,  "p_gen_mw": 0.0, "q_gen_mvar": 0.0, "p_load_mw": 80.0, "q_load_mvar": 15.0, "base_kv": 13.8},
     {"id": 3, "type": "pq",    "v_setpoint": 1.0,  "p_gen_mw": 0.0, "q_gen_mvar": 0.0, "p_load_mw": 55.0, "q_load_mvar": 20.0, "base_kv": 13.8},
     {"id": 4, "type": "pq",    "v_setpoint": 1.0,  "p_gen_mw": 0.0, "q_gen_mvar": 0.0, "p_load_mw": 30.0, "q_load_mvar": 12.0, "base_kv": 13.8}
   ],
